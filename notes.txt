@@ -1,0 +1,4 @@
+--> change QR every 5 seconds
+--> change the URL every 45 seconds
+--> every device can login just 1 time every 30 minutes
+--> the student can't get back for the student loing only 1 time every 30 minutes
